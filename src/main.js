@@ -3,6 +3,8 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+// rem配置文件 响应式布局
+import './config/rem'
 
 Vue.config.productionTip = false
 
