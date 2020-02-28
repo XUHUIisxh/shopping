@@ -94,7 +94,7 @@
 
 <style scoped>
   .home-page .nav{
-    height: 180px;
+    height: 130px;
     padding-top: 44px;
     overflow-x: scroll;
     white-space: nowrap;
@@ -102,12 +102,13 @@
   }
   .home-page .nav li{
     display: inline-block;
-    width: 200px;
+    width: 108px;
     text-align: center;
-    font-size: 22px;
+    font-size: 18px;
   }
   .nav li img{
     display: block;
+    width: 48px;
     margin: 20px auto;
   }
 

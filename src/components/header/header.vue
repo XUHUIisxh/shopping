@@ -47,7 +47,7 @@
     display: inline-block
   }
   .header-ul .header-search{
-   padding-left: 240px;
+   padding-left: 60px;
    display: inline-block
   }
 </style>

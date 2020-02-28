@@ -21,27 +21,26 @@ export default {
 </script>
 
 <style scoped>
-.c-course {
-  padding: 24px 0;
+.c-course a{
+  list-style: none;
 }
 .c-course li {
   position: relative;
-  height: 108px;
-  padding: 10px 10px;
+  padding: 20px 10px;
 }
 .c-course li img {
   position: absolute;
-  height: 108px;
+  width: 108px;
   border-radius: 5px;
 }
 .c-course li h1 {
-  font-size: 22px;
-  padding-left: 200px;
+  font-size: 18px;
+  padding-left: 120px;
   color: #2b333b;
 }
 .c-course li p {
-  font-size: 18px;
-  padding-left: 200px;
+  font-size: 14px;
+  padding-left: 120px;
   color: #71777d;
 }
 </style>
