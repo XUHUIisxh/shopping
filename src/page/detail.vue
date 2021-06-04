@@ -6,7 +6,7 @@
         controls="controls"
       ></video>
       <router-link to="/">
-        <div class="video-back">xxx</div>
+        <div class="video-back">x123xx</div>
       </router-link>
     </div>
 
